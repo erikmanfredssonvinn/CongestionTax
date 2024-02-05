@@ -1,0 +1,139 @@
+# General
+[Tt]humbs.db
+*.log
+*.bak
+*.cache
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+
+# Visual Studio files #
+#######################
+.vs/
+.idea/
+
+# User-specific files
+########################
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+##################
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio 2019 directories #
+###################################
+.vscode/
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# Rider generated files #
+##########################
+.idea/
+*.sln.iml
+
+# Resharper plugin
+############################
+_ReSharper*/
+
+# NuGet Packages #
+###################
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/packages/repositories.config
+
+# Windows image file caches #
+#############################
+Thumbs.db
+ehthumbs.db
+
+# Folder config file #
+######################
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code #
+###########
+.vscode/
+
+# Rider #
+#########
+.idea/
+
+# User-specific files #
+#######################
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files #
+##############################
+mono_crash.*
+
+# Windows image file caches #
+##############################
+Thumbs.db
+ehthumbs.db
+
+# Directories #
+###############
+logs
+bin
+obj
+*.sqlproj.user
+*.suo
+*.user
+.idea
+.vs
