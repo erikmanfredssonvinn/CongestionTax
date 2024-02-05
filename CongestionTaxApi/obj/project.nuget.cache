@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "M1DEwwfdT8h8k4rTUBf9dDt3HmMKfvXVAoM0Xq7RTRUO4cZVaAulsch0buMKDS2MgNcQxyQUerD97J2GTUybQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erma\\RiderProjects\\CongestionTax\\CongestionTaxApi\\CongestionTaxApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erma\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\erma\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\erma\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\erma\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\erma\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\erma\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
